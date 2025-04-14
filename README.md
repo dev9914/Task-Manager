@@ -6,8 +6,8 @@ A simple and clean Task Manager built with the **MERN stack** (MongoDB, Express,
 
 ## 🌐 Live Demo
 
-Frontend:
-Backend: 
+Frontend: [Vercel](https://task-manager-green-gamma.vercel.app)
+Backend: [Render](https://task-manager-53bm.onrender.com)
 
 ---
 
