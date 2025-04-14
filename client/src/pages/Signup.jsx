@@ -93,6 +93,11 @@ const Signup = () => {
     className="px-4 py-2 rounded-md border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500"
   />
 </div>
+{error && (
+        <div className="error-message text-red-500 font-sans mt-2">
+          {error}
+        </div>
+      )}
 <button
   type="submit"
   className={`px-6 py-2 mt-6 rounded-md w-[500px] bg-blue-600 text-white font-semibold transition duration-300 
